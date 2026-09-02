@@ -13,3 +13,4 @@ public class MaxElement {
         System.out.println(maxElement(arr));
     }
 }
+
