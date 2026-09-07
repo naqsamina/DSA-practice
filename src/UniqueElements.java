@@ -29,7 +29,7 @@ public class UniqueElements {
       for(int i =0;i<N;i++){
           Al.add(sc.nextInt());
       }
-        System.out.println(uniqueElements(Al));
+        System.out.println();
 
     }
 }
