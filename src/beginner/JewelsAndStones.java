@@ -1,4 +1,4 @@
-package src;
+package src.beginner;
 
 public class JewelsAndStones {
     public static  int stoneAndJewels(String A,String B){

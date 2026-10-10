@@ -1,7 +1,6 @@
-package src;
+package src.beginner;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class AllUniqueElements {
     public static ArrayList<Integer> allUniqueEle(ArrayList<Integer> Al){

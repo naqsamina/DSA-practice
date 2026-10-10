@@ -1,4 +1,4 @@
-package src;
+package src.beginner;
 
 public class ConditionalReplacement {
     public static String replaceB(String str,char B){

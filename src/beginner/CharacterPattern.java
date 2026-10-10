@@ -1,4 +1,4 @@
-package src;
+package src.beginner;
 
 public class CharacterPattern {
     public static void Pattern(int N){

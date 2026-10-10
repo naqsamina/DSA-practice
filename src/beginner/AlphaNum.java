@@ -1,4 +1,4 @@
-package src;
+package src.beginner;
 
 public class AlphaNum {
     public static int solve(char[] A) {

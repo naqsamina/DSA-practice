@@ -2,7 +2,7 @@ package src.intermediate;
 
 import java.util.Arrays;
 
-public class EvenInRange {
+public class EvenInRangeBrutForce {
     public static int[] evenCount(int[] A, int[][] Q){
         int N = Q.length;
         int[] res = new int[N];

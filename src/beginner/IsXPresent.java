@@ -1,4 +1,4 @@
-package src;
+package src.beginner;
 
 public class IsXPresent {
     public static int isXPresent(int[] A, int B){

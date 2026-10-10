@@ -1,4 +1,4 @@
-package src;
+package src.beginner;
 
 public class IdentityMatrix {
     public static int isDiagonalMat(int[][] mat){

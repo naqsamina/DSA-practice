@@ -1,4 +1,4 @@
-package src;
+package src.beginner;
 
 public class CountPrimes {
     public static int solve(int A){

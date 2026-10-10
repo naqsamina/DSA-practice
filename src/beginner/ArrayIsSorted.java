@@ -1,4 +1,4 @@
-package src;
+package src.beginner;
 
 public class ArrayIsSorted {
     public static int ifSorted(int[] arr){

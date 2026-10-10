@@ -1,4 +1,4 @@
-package src;
+package src.beginner;
 
 public class DecreasingArray {
     public static int StrictlyDecreasing(int[] arr){

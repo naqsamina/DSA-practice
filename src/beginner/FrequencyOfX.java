@@ -1,4 +1,4 @@
-package src;
+package src.beginner;
 
 public class FrequencyOfX {
     public static int frequencyOfElement(int[] arr, int B){

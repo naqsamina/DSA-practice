@@ -1,4 +1,4 @@
-package src;
+package src.beginner;
 
 public class CountOfElements {
     public static int countElements(int[] arr){
